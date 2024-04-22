@@ -52,7 +52,7 @@
                 <input type="hidden" name="id" value="<?php echo $linha['cod_pessoa'] ?>">
             </div>
           </form>
-          <a href="index.php" class="btn btn-info">Voltar para o início</a>
+          <a href="index.html" class="btn btn-info">Voltar para o início</a>
         </div>        
       </div>
     </div>
