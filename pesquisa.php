@@ -72,7 +72,7 @@
             </tbody>
           </table>
           
-          <a href="index.php" class="btn btn-info">Voltar para o início</a>
+          <a href="index.html" class="btn btn-info">Voltar para o início</a>
         </div>        
       </div>
     </div>
